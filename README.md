@@ -1,5 +1,7 @@
 # Periskop
 
+[![Join the chat at https://gitter.im/soundcloud/periskop](https://badges.gitter.im/soundcloud/periskop.svg)](https://gitter.im/soundcloud/periskop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Pull based, language agnostic exception aggregator for microservice environments.
 
 Periskop scales well with the number of exceptions and application instances:
